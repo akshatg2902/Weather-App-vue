@@ -1,5 +1,13 @@
 # vue-weather
 
+## Screen-Shot
+
+### Warmer climate
+![Login page](./vue-weather.png)
+
+### Colder climate (less than 16°c)
+![Signup page](./vue-weather-2.png)
+
 ## Project setup
 ```
 npm install
