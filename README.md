@@ -1,5 +1,7 @@
 # vue-weather
 
+A Weather App made by using VueJS and openweather API. Shows Teampreature in °c (dgree celcius) with weather condtion underneath it.
+
 ## Screen-Shot
 
 ### Warmer climate
